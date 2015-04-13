@@ -1,2 +1,4 @@
 # di_project
 Analysis of FDA Enforcement Reports for Data Incubator project proposal
+
+I am analyzing FDA Enforcement reports to determine the most common reasons for food product recall and potential trends in the location, time of year or type of food reported.  A cursory glance at these reports shows that many of the recalls are voluntarily initiated by the food manufacturer and do not involve bacterial contamination.  Understanding the most common reasons for recall and their trends within the food industry will help manufacturers target problem areas in their product lines.  Additionally entrepreneurs just entering the food industry will be more aware of common mistakes that can result in loss of income. I am beginning my examination of the data with the year 2014, but if accepted at the Data Science Incubator, I would expand my analysis to include the last 10 years.
